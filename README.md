@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in Gdańsk University of Technology
 - 💞️ I’m looking to collaborate on some kind of my first CV portfolio
 - 📫 How to reach me you can text to my by the mail mikolaj.budzinski@onet.pl
-- 🇵🇱 i`m from Poland and i`m looking for opportunity to get an internship.
+- 🇵🇱 i am from Poland and i am looking for opportunity to get an internship.
 -    I like teamwwork and talkative people. 
 -    if you will give me a chance you will not regret it.
 -    I will give you a piece of my work in this account,
