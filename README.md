@@ -9,7 +9,6 @@
 -    I will give you a piece of my work in this account,
 -    Have a good day.
 -    <3
--   
 
 <!---
 mikbud123pythjav/mikbud123pythjav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
