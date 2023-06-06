@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @mikbud123pythjav
-- 👀 I’m interested in web and AI programming
-- 🌱 I’m currently learning in Gdańsk University of Technology
-- 💞️ I’m looking for challenges and interesting projects
-- 📫 You can text to my by the mail budzinskimikolaj33@gmail.com
-- 🇵🇱 i am from Poland and i am looking for opportunity to get an internship.
 -    Have a nice day.
 
 <!---
